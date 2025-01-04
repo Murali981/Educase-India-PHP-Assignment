@@ -1,0 +1,21 @@
+.student-image {
+  max-width: 100px;
+  max-height: 100px;
+  object-fit: cover;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.alert {
+  margin-top: 20px;
+}

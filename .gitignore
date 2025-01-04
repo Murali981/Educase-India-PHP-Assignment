@@ -1,0 +1,4 @@
+/uploads/*
+!uploads/.htaccess
+.env
+/vendor/
